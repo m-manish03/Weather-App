@@ -1,6 +1,13 @@
 # <img src="src/assets/rain.gif" alt="Weather App" width="50"/> [Weather App](https://earnest-tiramisu-c1119c.netlify.app/)
 
 This project is a weather application built using React and Vite. It leverages modern tools to provide a fast, interactive user experience with hot module replacement (HMR) and follows best practices for code quality with ESLint.
+## Live Demo
+
+Check out the live demo of this project on Netlify:
+
+[![Netlify](https://www.netlify.com/v3/img/components/full-logo-dark.svg)](https://earnest-tiramisu-c1119c.netlify.app/)
+
+Or visit the site directly: [https://your-site-name.netlify.app](https://earnest-tiramisu-c1119c.netlify.app/)
 
 ## Features
 
