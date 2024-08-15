@@ -7,7 +7,7 @@ Check out the live demo of this project on Netlify:
 
 [![Netlify](https://www.netlify.com/v3/img/components/full-logo-dark.svg)](https://earnest-tiramisu-c1119c.netlify.app/)
 
-Or visit the site directly: [(Weather_App.netlify.app/](https://earnest-tiramisu-c1119c.netlify.app/)
+Or visit the site directly: [Weather-App.netlify.app](https://earnest-tiramisu-c1119c.netlify.app/)
 
 ## Features
 
