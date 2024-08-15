@@ -1,6 +1,4 @@
-# Weather App
-
-![Weather App](src/assets/rain.gif)
+# <img src="src/assets/rain.gif" alt="Weather App" width="50"/> Weather App
 
 This project is a weather application built using React and Vite. It leverages modern tools to provide a fast, interactive user experience with hot module replacement (HMR) and follows best practices for code quality with ESLint.
 
