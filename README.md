@@ -1,6 +1,3 @@
-Certainly! Here’s the complete README file formatted for easy copy and paste:
-
-```markdown
 # ![Weather App](https://www.flaticon.com/free-animated-icon/rain_12086800) Weather App
 
 This project is a weather application built using React and Vite. It leverages modern tools to provide a fast, interactive user experience with hot module replacement (HMR) and follows best practices for code quality with ESLint.
@@ -117,4 +114,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to the developers of [React](https://reactjs.org/) and [Vite](https://vitejs.dev/) for creating such powerful tools.
 - Thanks to [Flaticon](https://www.flaticon.com/) for the weather icons used in the app.
 - Thanks to [OpenWeather](https://openweathermap.org) for providing the weather data API that powers this application.
-```
