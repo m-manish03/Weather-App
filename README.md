@@ -1,5 +1,4 @@
-# ![Weather App](https://www.flaticon.com/free-animated-icon/rain_12086800) Weather App
-
+![Weather App](src\assets\rain.gif)
 This project is a weather application built using React and Vite. It leverages modern tools to provide a fast, interactive user experience with hot module replacement (HMR) and follows best practices for code quality with ESLint.
 
 ## Features
