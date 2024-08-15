@@ -39,7 +39,7 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```
 
 3. **Create a `.env` file:**
-   - Get a [OpenWeather](https://openweathermap.org/api] API Key
+   - Get an [OpenWeather](https://openweathermap.org/api) API Key
    - Create a `.env` file in the root directory of the project.
    - Add your API key for the weather service:
      ```env
